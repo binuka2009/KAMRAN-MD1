@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/DRKAMRAN-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/policeduafatima?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/JawadYT36/KHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DRKAMRAN-MD/KAMRAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DRKAMRAN-MD/KAMRAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/DRKAMRAN-MD/KAMRAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DRKAMRAN-MD/KAMRAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/DRKAMRAN-MD/KAMRAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DRKAMRAN-MD/KAMRAN-MD?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/DRKAMRAN-MD/KAMRAN-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
@@ -27,11 +27,11 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/m1jjwx.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+  <img src="https://files.catbox.moe/m1jjwx.jpg" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
 </div>
 
 <div align="center">
